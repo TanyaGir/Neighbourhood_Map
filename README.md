@@ -1,5 +1,6 @@
 # Neighbourhood_Map Project
 This is a Webapp of the various coffee shops in London city .This project uses the google maps API to load the map and markers and uses the Foursqaure API to load information into the infowindow on the markers. This project has been implemented with KnockoutJS framework.
+Click here https://tanyagir.github.io/Neighbourhood_Map/ to view it
 - You can click on the marker icons on the map for the five locations loaded on default to view more information about them. 
 - You can also use the search bar to type in any of the names of the locations shown on the map and to filter out the other locations that   do not meet the search criteria.
 
